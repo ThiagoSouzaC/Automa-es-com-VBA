@@ -17,4 +17,4 @@ Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests.
 
 Licença
-Este projeto é licenciado sob a mit.
+Este projeto é licenciado sob a MIT License.
